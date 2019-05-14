@@ -99,6 +99,5 @@ export LC_ALL=en_US.UTF-8
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 export ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=3"
-[[ -s $(brew --prefix)/etc/profile.d/autojump.sh ]] && . $(brew --prefix)/etc/profile.d/autojump.sh
-export HOMEBREW_GITHUB_API_TOKEN=b2ebd971800a37c4e0c230ccaa16a08c5bd2e480
-export PATH=/Volumes/D/Go/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/opt/metasploit-framework/bin:/opt/metasploit-framework/bin:/Users/bay1/Library/Android/sdk/platform-tools:/Users/bay1/Library/Android/sdk/tools:/usr/local/Cellar/gradle/4.10.2/bin:/usr/local/mysql/bin 
+# [[ -s $(brew --prefix)/etc/profile.d/autojump.sh ]] && . $(brew --prefix)/etc/profile.d/autojump.sh
+
